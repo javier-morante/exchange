@@ -14,6 +14,8 @@
   - [Gitlab Original Repository](#gitlab-original-repository)
 - [Individual Portfolio of each member of the group](#individual-portfolio-of-each-member-of-the-group)
 - [Configure](#configure)
+  - [Firebase](#firebase)
+  - [Mapbox](#mapbox)
 - [FOL](#fol)
   - [Selection of SDGs](#selection-of-sdgs)
   - [Empathy Map](#empathy-map)
