@@ -1,0 +1,209 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Exchange</string>
+
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">
+        your mapbox api key
+    </string>
+
+    <!-- Settings Menu -->
+    <!-- <string name="">Settings</string>-->
+    <string name="category_management_button_label">Category Management</string>
+    <string name="user_management_button_label">User Management</string>
+    <string name="log_out_button">Sign Out</string>
+
+    <string name="save_profile_button_helper">Save profile</string>
+
+    <string name="offers_management_menu_administrator_user_label">Offers</string>
+    <string name="offers_management_menu_auth_user_label">My Offers</string>
+    <string name="category_management_label">Category Management</string>
+    <string name="users_management_label">Users Management</string>
+
+    <string name="sign_in_label">Sign In</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="log_out_label">Log Out</string>
+
+    <!-- Settings Sign In -->
+    <string name="sign_in_screen_title">Sign In</string>
+    <string name="sign_in_screen_subtitle">Welcome Again👋</string>
+
+    <!-- Settings Sign Up -->
+    <string name="sign_up_screen_title">Sign Up</string>
+    <string name="sign_up_screen_subtitle">Welcome!🚀</string>
+
+    <string name="sign_up_data_screen_title">About You</string>
+    <string name="sign_up_data_screen_subtitle">Welcome!🚀</string>
+    <string name="sign_up_data_screen_pick_image_button">Pick Image</string>
+    <string name="sign_up_data_screen_image_picked_button">Image Picked!</string>
+
+    <!-- Settings Password Recovery -->
+    <string name="password_recovery_screen_title">Recovery</string>
+    <string name="password_recovery_screen_subtitle">Password Recovery🗝</string>
+
+    <!-- Settings Profile -->
+    <string name="settings_profile_title">Settings</string>
+
+    <!-- Settings Profile Account Settings -->
+    <string name="account_account_settings_title">Account Settings</string>
+
+    <string name="account_account_settings_restore_location">Restore Location</string>
+    <string name="account_account_settings_email_label">Email</string>
+    <string name="account_account_settings_restore_email_label">Send restore Email</string>
+    <string name="account_account_settings_password_restore_label">Restore Password</string>
+
+    <!-- Settings Profile Profile Settings -->
+    <string name="account_profile_settings_title">Profile Settings</string>
+
+    <string name="account_profile_settings_image_picker_label">Image</string>
+    <string name="account_profile_settings_name_label">Name</string>
+    <string name="account_profile_settings_surname_label">Surname</string>
+    <string name="account_profile_settings_phone_label">Phone</string>
+    <string name="account_profile_settings_description_label">Description</string>
+    <string name="account_profile_settings_save_data_label">Save Data</string>
+
+    <!-- Settings Profile Danger Zone Settings -->
+    <string name="account_danger_zone_settings_title">Danger Zone</string>
+    <string name="account_danger_zone_settings_delete_account_label">Delete Account</string>
+
+    <!-- Category Manager -->
+    <!-- Category Creation -->
+    <string name="category_management_title">Category Management</string>
+
+    <string name="category_search_box_placeholder_label">Search</string>
+    <string name="category_creation_image_picker_label">Image</string>
+    <string name="category_creation_title_label">Title</string>
+    <string name="category_creation_description_label">Description</string>
+
+    <string name="category_creation_create_button_label">Create</string>
+
+    <!-- Category Details -->
+    <string name="category_details_update_button_label">Save</string>
+    <string name="category_details_delete_button_label">Delete</string>
+
+    <!-- User Manager -->
+    <string name="user_management_screen_title">User Management</string>
+
+    <!-- User Details -->
+    <string name="user_details_title">User Details</string>
+
+    <string name="user_details_role_label">Role</string>
+    <string name="user_details_profile_enabled_label">Enabled</string>
+
+    <!-- Offer Manager -->
+    <string name="offer_management_title">My Offers</string>
+
+    <!-- Offer Details -->
+    <string name="offer_details_my_item_label">My item</string>
+    <string name="offer_details_desired_item_label">Desired Item</string>
+    <string name="offer_details_description_label">Description</string>
+    <string name="offer_details_category_ref_label">Category</string>
+    <string name="offer_details_offer_state_label">Status</string>
+    <string name="offer_details_offer_average_rating_label">Average rating</string>
+
+    <string name="offer_details_save_offer_label">Save</string>
+    <string name="offer_details_delete_offer_label">Delete</string>
+    <string name="offer_details_close_profile_info_dialog">Close</string>
+    <string name="offer_details_map_button">View Offer</string>
+
+    <!-- Reviews Screens -->
+    <string name="reviews_list_label">Reviews</string>
+    <string name="add_a_review_label">Add a Review</string>
+    <string name="message_text_field_label">Message</string>
+    <string name="add_button_label">Add</string>
+
+    <!-- Conversations -->
+    <string name="conversations_list_title">Conversations</string>
+    <string name="conversations_conversation_delete_message_label">Delete Message</string>
+    <string name="conversations_conversation_restore_message_label">Restore Message</string>
+    <string name="conversations_conversation_send_bar_label">Message</string>
+    <string name="conversations_conversation_message_date_label">Date</string>
+    <string name="conversations_conversation_message_content_label">Message</string>
+
+    <string name="conversations_conversation_settings_title">Conversation Settings</string>
+
+    <string name="conversations_conversation_delete_conversation_label">Delete conversation</string>
+
+    <!-- Offer Creation -->
+    <string name="offer_creation_title">Offer Creation</string>
+    <string name="offer_creation_create_button_label">Create</string>
+    <string name="offer_creation_location_picker_label">Pick Location</string>
+
+
+    <!-- Others -->
+    <string name="name_form_label">Name</string>
+    <string name="surname_form_label">Surname</string>
+    <string name="phone_form_label">Phone</string>
+
+    <string name="email_form_label">Email</string>
+    <string name="email_form_icon_helper">Email Text Field</string>
+
+    <string name="password_form_label">Password</string>
+    <string name="password_repeat_label">Repeat Password</string>
+
+    <string name="password_recovery_link">Forgotten Password?</string>
+
+    <string name="send_icon_helper">Send Icon</string>
+
+    <string name="search_bar_icon_helper">Search Bar Icon</string>
+
+    <string name="back_button_helper">Back Button</string>
+
+    <string name="password_field_visibility_button">Password Visibility Button</string>
+
+    <string name="password_form_icon_helper">Password Text Field</string>
+
+    <string name="authentication_background_image_helper">Authentication Background Image</string>
+
+    <string name="no_selection">No selected</string>
+    <string name="sort_by_date">By date</string>
+    <string name="sort_by_reviews">By reviews</string>
+
+    <string name="sort">Sort by</string>
+
+    <string name="edit_offer_button">Edit offer</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_clear">Clear</string>
+    <string name="sort_by_distance">By distance</string>
+    <string name="distance_between">%.2fkm to %.2fkm</string>
+    
+    <string name="filter_by_stars">Filter by stars</string>
+    <string name="star">star</string>
+    <string name="stars">stars</string>
+    <string name="filter_by_distance">Filter by distance</string>
+
+    <string name="catalogue_bottom_bar_helper">Navigate to catalogue</string>
+    <string name="conversations_bottom_bar_helper">Navigate to conversations</string>
+    <string name="create_offer_bottom_bar_helper">Navigate to create offer</string>
+    <string name="settings_bottom_bar_helper">Navigate to settings</string>
+
+    <string name="switch_map_button">Navigate to offers map</string>
+    <string name="open_filters">Open Filters</string>
+    <string name="close_filters">Close Filters</string>
+    <string name="search_bar_button_helper">Search offers</string>
+
+    <string name="send_message_button_helper">Send Message</string>
+    <string name="restore_location_button_helper">Restore Location</string>
+    <string name="switch_offers_grid_button">Navigate to offers grid</string>
+    <string name="start_conversation_button_helper">Start conversation</string>
+    <string name="create_category_button_helper">Create category</string>
+
+    <string name="submit_password_recovery_button_helper">Submit password recovery</string>
+    <string name="submit_sign_in_button_helper">Submit Sign In</string>
+    <string name="submit_sign_up_credentials_button_helper">Submit Sign Up credentials</string>
+    <string name="submit_sign_up_data_button_helper">Submit Sign Up data</string>
+
+    <string name="offer_details_side_bar_helper">Navigate to Offer Details</string>
+    <string name="reviews_side_bar_helper">Navigate to Offer reviews</string>
+    <string name="location_side_bar_helper">Navigate to Offer Location</string>
+
+    <string name="offer_owner_image">Offer owner image</string>
+
+    <string name="conversation_settings_button">Conversation Settings Button</string>
+
+    <string name="image_picker_helper">Image Picker Button</string>
+
+    <string name="account_settings_side_bar_helper">Navigate to account settings</string>
+    <string name="profile_settings_side_bar_helper">Navigate to profile settings</string>
+
+    <string name="accept_location_button_helper">Accept Selected Location</string>
+
+</resources>
